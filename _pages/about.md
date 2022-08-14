@@ -15,6 +15,7 @@ classes:
 redirect_from: 
   - /about/
   - /about.html
+author_profile: true
 ---
 
 <style>.about_class .page__hero--overlay {min-height:calc(100vw * 0.2)}</style>
