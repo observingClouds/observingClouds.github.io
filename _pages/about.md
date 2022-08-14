@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: images/schulz_balloon_header_09102015.png
+  overlay_image: schulz_balloon_header_09102015.png
   #actions:
   #  - label: "Download"
   #    url: "#test-link"
