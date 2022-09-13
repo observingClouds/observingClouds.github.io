@@ -1,10 +1,16 @@
 ---
 layout: archive
 title: "Curriculum Vitae"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: Header_grafic_locations.png
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+classes:
+  - about_class
 ---
 
 {% include base_path %}
@@ -20,6 +26,8 @@ redirect_from:
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+
+<style>.about_class .page__hero--overlay {min-height:calc(100vw * 0.95)}</style>
 
 ## Education
 
