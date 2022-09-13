@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Hauke Schulz"
 layout: splash
 permalink: /
 header:
