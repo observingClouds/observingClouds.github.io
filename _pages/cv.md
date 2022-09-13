@@ -9,6 +9,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /cv.html
 classes:
   - about_class
 ---
