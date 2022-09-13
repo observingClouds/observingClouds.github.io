@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hauke Schulz"
 title_separator          : "-"
 name                     : &name "Hauke Schulz"
-description              : &description "Climate scientist"
+description              : &description "Climate scientist, PhD @Max Planck Institute for Meteorology and @University of Hamburg"
 url                      : https://observingClouds.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "observingClouds/observingClouds.github.io"
@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Hauke Schulz"
   avatar           : "profile.jpg"
-  bio              : "Climate scientist."
+  bio              : "Climate scientist, PhD @Max Planck Institute for Meteorology and @University of Hamburg"
+  bio2             : "Observing the atmosphere from space and ground, from land and sea, active and passive."
+  bio3             : "Trying to understand ☁️."
+  bio4             : "Open-source software, machine learning, data versioning, large-eddy simulations."
   location         : "Seattle and online"
   employer         :
   pubmed           : 
