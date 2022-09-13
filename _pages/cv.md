@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 
 <table class="table">
    <tbody>
@@ -44,7 +44,7 @@ redirect_from:
    </tbody>
 </table>
 
-# Professional experience
+## Professional experience
 
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-spacing:0;}
@@ -94,7 +94,7 @@ redirect_from:
 </tbody>
 </table>
 
-# Scholarschips and Awards
+## Scholarschips and Awards
 
 - [CICOES Fellowship](https://cicoes.uw.edu/education/postdoc-program/) (2022)
 - AGU Outstanding Student Presentation Award (2020)
