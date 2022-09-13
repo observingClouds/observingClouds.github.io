@@ -9,9 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+<style type="text/css">
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:18px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lqy6{text-align:right;vertical-align:top}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+
 ## Education
 
-<table class="table">
+<table class="tg" style="undefined;table-layout: fixed; width: auto">
    <tbody>
       <tr>
          <td>Ph.D.</td>
@@ -46,21 +58,10 @@ redirect_from:
 
 ## Professional experience
 
-<style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:18px;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
-.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:18px;font-weight:normal;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lqy6{text-align:right;vertical-align:top}
-.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1026px">
+<table class="tg" style="undefined;table-layout: fixed; width: auto">
 <colgroup>
-<col style="width: 142px">
-<col style="width: 884px">
+<col style="width: 170px">
+<col style="width: auto">
 </colgroup>
 <tbody>
   <tr>
