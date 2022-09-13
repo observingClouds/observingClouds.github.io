@@ -18,6 +18,6 @@ redirect_from:
 author_profile: true
 ---
 
-<style>.about_class .page__hero--overlay {min-height:calc(100vw * 0.2)}</style>
+<style>.page__hero--overlay {min-height:calc(100vw * 0.2)}</style>
 
 I'm an atmospheric scientist with an interest to understand our Earth's climate system from as far south as Antartica to the North pole....

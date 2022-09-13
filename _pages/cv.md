@@ -27,7 +27,7 @@ classes:
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 
-<style>.about_class .page__hero--overlay {min-height:calc(100vw * 0.95)}</style>
+<style>.page__hero--overlay {min-height:calc(100vw * 0.95)}</style>
 
 ## Education
 
