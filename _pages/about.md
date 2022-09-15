@@ -1,6 +1,6 @@
 ---
 title: "Hauke Schulz"
-layout: splash
+layout: archive
 permalink: /
 header:
   overlay_color: "#000"
