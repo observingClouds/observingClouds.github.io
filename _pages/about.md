@@ -20,4 +20,5 @@ author_profile: true
 
 <style>.page__hero--overlay {min-height:calc(100vw * 0.2)}</style>
 
-I'm an atmospheric scientist with an interest to understand our Earth's climate system from as far south as Antartica to the North pole....
+This site is currently under development!
+
