@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "Press and Outreach"
 permalink: /press2/
 author_profile: true
