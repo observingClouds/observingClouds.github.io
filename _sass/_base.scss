@@ -381,3 +381,18 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     }
   }
 }
+
+:root {
+  --global-bg-color: #fff;
+  --global-code-bg-color: rgba(181,9,172,0.05);
+  --global-text-color: #000;
+  --global-text-color-light: #828282;
+  --global-theme-color: #b509ac;
+  --global-hover-color: #b509ac;
+  --global-footer-bg-color: #1c1c1d;
+  --global-footer-text-color: #e8e8e8;
+  --global-footer-link-color: #fff;
+  --global-distill-app-color: #828282;
+  --global-divider-color: rgba(0,0,0,.1);
+  --global-card-bg-color: #fff;
+}
