@@ -21,7 +21,6 @@ horizontal: false
 
 ## Further press clippings
 <!-- pages/projects.md -->
-<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -39,7 +38,7 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 200 }>
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
@@ -70,3 +69,4 @@ horizontal: false
 </div>
 
 
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
