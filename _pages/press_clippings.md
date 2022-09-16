@@ -6,7 +6,7 @@ author_profile: true
 description: 
 nav: true
 display_categories: 
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
