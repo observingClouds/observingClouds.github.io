@@ -38,7 +38,7 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-  <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 200 }>
+  <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 200 }'>
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
@@ -59,7 +59,7 @@ horizontal: false
     </div>
   </div>
   {%- else -%}
-  <div class="grid">
+  <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 200 }'>
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
