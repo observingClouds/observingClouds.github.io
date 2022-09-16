@@ -9,6 +9,17 @@ display_categories:
 horizontal: true
 ---
 
+
+{% include base_path %}
+
+## Videos
+### EUREC4A
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U3mYpuW6ByM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Neumayer Station III, Antarctica
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/viodr2rgsx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Further press clippings
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
@@ -57,12 +68,4 @@ horizontal: true
 {%- endif -%}
 </div>
 
-
-{% include base_path %}
-
-## EUREC4A
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/U3mYpuW6ByM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Neumayer Station III, Antarctica
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/viodr2rgsx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
