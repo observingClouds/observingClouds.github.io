@@ -33,10 +33,6 @@ author_profile: true
 </style>
 
 ## Process-understanding of meso-scale cloud organization
-<table style="width:100%">
-<tr style="height:400px><td><iframe src="https://tobi.pages.gwdg.de/gridlook/#https://swift.dkrz.de/v1/dkrz_948e7d4bbfbb445fbff5315fc433e36a/EUREC4A_LES/json_eurec4a_sim_time.json"></iframe></td><td>Lorem ipsum</td>
-</table>
-
 ## Detection of meso-scale cloud patterns
 <div style="overflow:auto">
   <div class="menu">
