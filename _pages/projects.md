@@ -14,7 +14,7 @@ author_profile: true
 .menu {
   float: left;
   width: 400px;
-  height: 400px;
+  min-height: 400px;
   text-align: center;
   background-color: #e5e5e5;
 }
@@ -52,10 +52,9 @@ author_profile: true
 ## Observing the atmosphere in moisture space
 <div style="overflow:auto">
   <div class="menu">
-    <iframe src="https://tobi.pages.gwdg.de/gridlook/#https://swift.dkrz.de/v1/dkrz_948e7d4bbfbb445fbff5315fc433e36a/EUREC4A_LES/json_eurec4a_sim_time.json"></iframe></p>
+    <iframe src="https://tobi.pages.gwdg.de/gridlook/#https://swift.dkrz.de/v1/dkrz_948e7d4bbfbb445fbff5315fc433e36a/EUREC4A_LES/json_eurec4a_sim_time.json"></iframe>
   </div>
   <div class="description">
-    <h2>Lorum Ipsum</h2>
     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
   </div>
 </div>
