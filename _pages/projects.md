@@ -71,5 +71,7 @@ iframe {
   <div class="description">
     <h2>Sea-ice measurements in Antarctica</h2>
     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+    <p><i>Relevant dataset"</i></p>
+    <p style="font-size:smaller"> Arndt, S., <b>Schulz, H.</b>, and Nicolaus, M. Thickness and properties of sea ice and snow of land-fast sea ice in Atka Bay in 2017. <i>Data set</i>. Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, <b>2018</b>. <a href=https://doi.org/10.1594/PANGAEA.889250">10.1594/PANGAEA.889250</a>.</p>
   </div>
 </div>
