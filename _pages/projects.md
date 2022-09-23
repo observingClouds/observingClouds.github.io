@@ -24,6 +24,12 @@ author_profile: true
   margin-left:1em;
 }
 
+iframe {
+  display: block;
+  width: 100%;
+  min-height: 400px;
+}
+
 @media only screen and (max-width: 800px) {
   /* For mobile phones: */
   .menu, .main, .right {
