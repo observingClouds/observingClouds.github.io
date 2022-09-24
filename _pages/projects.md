@@ -39,21 +39,31 @@ iframe {
 </style>
 
 ## Process-understanding of meso-scale cloud organization
-## Detection of meso-scale cloud patterns
 <div style="overflow:auto">
   <div class="menu">
-  	<p height="250px">
-    <a href="#"><img src="https://wiki.mpimet.mpg.de/lib/exe/fetch.php?media=imprs_logo_transp.png" width="200px"></a></p>
+    <iframe width="100%" src="https://tobi.pages.gwdg.de/gridlook/#https://swift.dkrz.de/v1/dkrz_948e7d4bbfbb445fbff5315fc433e36a/EUREC4A_LES/json_eurec4a_sim_time.json"></iframe>
   </div>
   <div class="description">
     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
   </div>
 </div>
 
+## Detection of meso-scale cloud patterns
+<div style="overflow:auto">
+  <div class="menu">
+    <a href="#"><img src="https://observingClouds.github.io/images/Teaser_AnimationwLabels.gif"></a></p>
+  </div>
+  <div class="description">
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+    <p><i>Relevant publications</i></p>
+    <p style="font-size:smaller"><p><strong>Schulz, H.</strong> (2022). C<sup>3</sup>ONTEXT: A Common Consensus on Convective OrgaNizaTion during the EUREC<sup>4</sup>A eXperimenT. <i>Earth System Science Data</i>, <i>14 </i>(3), 1233–1256. <a href="https://doi.org/10.5194/essd-14-1233-2022" target="_blank">https://doi.org/10.5194/essd-14-1233-2022</a></p>
+    <p style="font-size:smaller">Rasp, S.; <strong>Schulz, H.</strong>; Bony, S.; Stevens, B. Combining Crowd-Sourcing and Deep Learning to Explore the Meso-Scale Organization of Shallow Convection. <i>Bull. Amer. Meteor. Soc.</i><strong>2020</strong>. <a href="https://doi.org/10.1175/BAMS-D-19-0324.1" target="_blank">https://doi.org/10.1175/BAMS-D-19-0324.1</a>.</p>
+  </div>
+</div>
+
 ## Observing the atmosphere in moisture space
 <div style="overflow:auto">
   <div class="menu">
-    <iframe src="https://tobi.pages.gwdg.de/gridlook/#https://swift.dkrz.de/v1/dkrz_948e7d4bbfbb445fbff5315fc433e36a/EUREC4A_LES/json_eurec4a_sim_time.json"></iframe>
   </div>
   <div class="description">
     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
