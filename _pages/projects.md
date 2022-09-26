@@ -35,6 +35,12 @@ iframe {
     width: 100%;
   }
 }
+
+@media only screen and (min-width: 801px) {
+  .description {
+    margin-left: 420px;
+  }
+}
 </style>
 
 ## Process-understanding of meso-scale cloud organization
