@@ -106,7 +106,7 @@ classes:
 
 ## Scholarschips and Awards
 
-- [UW Data Science Postdoctoral Fellowship](https://escience.washington.edu/people/hauke-schulz/) (2022)
+- [UW Data Science Postdoctoral Fellowship](https://escience.washington.edu/member/hauke-schulz/) (2022)
 - [CICOES Fellowship](https://cicoes.uw.edu/education/postdoc-program/) (2022)
 - AGU Outstanding Student Presentation Award (2020)
 - Erasmus scholarschip (2015)
