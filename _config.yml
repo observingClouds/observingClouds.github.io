@@ -125,9 +125,8 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
   - assets/headers
-  - ".well-known/webfinger"
+  - .well-known
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
