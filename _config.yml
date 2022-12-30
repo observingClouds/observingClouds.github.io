@@ -127,7 +127,7 @@ include:
   - _pages
   - files
   - assets/headers
-  - .well-known/webfinger
+  - ".well-known/webfinger"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
