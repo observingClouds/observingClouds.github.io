@@ -24,6 +24,18 @@ author_profile: true
       <div class="csl-right-inline" style="margin: 0 .4em 0 2.5em; ">
         <div class="frame frame-default frame-type-list frame-layout-0 frame-space-after-small" id="c32315">
           <header>
+            <h1>submitted
+            </h1>
+          </header>
+          <p>
+            <strong>Schulz, H.
+            </strong>; Stevens, B. (submitted). On the representation of shallow convection in the trades by large-domain, hecto-meter, large-eddy simulations. 
+            <i>EarthArXiv
+            </i>,
+            <a href="https://doi.org/10.5194/essd-14-1233-2022" target="_blank">https://doi.org/10.5194/essd-14-1233-2022
+            </a>
+          </p>
+          <header>
             <h1>2022
             </h1>
           </header>
