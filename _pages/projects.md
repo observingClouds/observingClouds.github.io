@@ -86,7 +86,33 @@ iframe {
   </div>
   <div class="description">
     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-    <p><i>Relevant dataset"</i></p>
-    <p style="font-size:smaller"> Arndt, S., <b>Schulz, H.</b>, and Nicolaus, M. Thickness and properties of sea ice and snow of land-fast sea ice in Atka Bay in 2017. <i>Data set</i>. Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, <b>2018</b>. <a href=https://doi.org/10.1594/PANGAEA.889250">10.1594/PANGAEA.889250</a>.</p>
+    <p><i>Relevant dataset</i></p>
+    <p style="font-size:smaller"> Arndt, S., <b>Schulz, H.</b>, and Nicolaus, M. Thickness and properties of sea ice and snow of land-fast sea ice in Atka Bay in 2017. <i>Data set</i>. Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, <b>2018</b>. <a href="https://doi.org/10.1594/PANGAEA.889250">10.1594/PANGAEA.889250</a>.</p>
   </div>
+</div>
+
+## Meteorological climate record in Antarctica
+<div style="overflow:auto">
+  <div class="menu">
+        <p height="250px">
+    <a href="#"><img src="https://data.meereisportal.de/maps/relaunch/startpage/seaice_concentration_Antarctic_en.png" width="200px"></a></p>
+  </div>
+  <div class="description">
+    <p>Long-term observations are crucial to analyse climate change. At the Neumayer Station they have a long tradition dating back to 1981, when the Georg-von-Neumayer Station was build. As an overwinterer at the Neumayer Station III, I took over the responsibility for over a year and contributed to this long-term record with:
+     <ul>
+       <li>Radiosoundings</li>
+       <li>Ozone soundings</li>
+       <li>Synoptic observations</li>
+       <li>Radiation measurements</li>
+       <li>Standard meteorology measurements</li>
+     </ul>
+    </p>
+    <p><i>Relevant dataset</i></p>
+
+    <p style="font-size:smaller"> Schmithüsen, H. and <b>Schulz, H.</b>Meteorological synoptical observations from Neumayer Station (Feb. 2017- Jan. 2018). <i>Dataset collection</i>. Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, <b>2018</b>. <a href="https://pangaea.de/?q=Meteorological+synoptical+observations+from+Neumayer+Station&mindate=2017-02-01&maxdate=2018-01-01">URL</a>.</p>
+    <p style="font-size:smaller"> Schmithüsen, H. and <b>Schulz, H.</b>Radiosonde measurements from Neumayer Station (Feb. 2017- Jan. 2018).<i>Dataset collection</i>. Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, <b>2018</b>. <a href="https://pangaea.de/?q=Radiosonde+measurements+from+Neumayer+Station&mindate=2017-02&maxdate=2018-01">URL</a>.</p>
+    <p style="font-size:smaller"> Schmithüsen, H. and <b>Schulz, H.</b>Ozone measurements from Neumayer Station (Feb. 2017- Jan. 2018).<i>Dataset collection</i>. Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, <b>2018</b>. <a href="https://pangaea.de/?q=Ozone+measurements+from+Neumayer+Station&mindate=2017-02&maxdate=2018-01">URL</a>.</p>
+    <p style="font-size:smaller"> Schmithüsen, H. and <b>Schulz, H.</b>Meteorological synoptical observations from Neumayer Station (Feb. 2017- Jan. 2018).<i>Dataset collection</i>. Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, <b>2018</b>. <a href="https://pangaea.de/?q=Meteorological+synoptical+observations+from+Neumayer+Station&mindate=2017-02&maxdate=2018-01">URL</a>.</p>
+    <p style="font-size:smaller"> Schmithüsen, H. and <b>Schulz, H.</b>High resolved snow height measurements at Neumayer Station, Antarctica, 2017.<i>Dataset collection</i>. Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, <b>2018</b>. <a href="https://doi.org/10.1594/PANGAEA.887689">10.1594/PANGAEA.887689</a>.</p> 
+</div>
 </div>
