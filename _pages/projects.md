@@ -82,7 +82,7 @@ iframe {
 <div style="overflow:auto">
   <div class="menu">
   	<p height="250px">
-    <a href="#"><img src="https://wiki.mpimet.mpg.de/lib/exe/fetch.php?media=imprs_logo_transp.png" width="200px"></a></p>
+    <a href="#"><img src="https://data.meereisportal.de/maps/relaunch/startpage/seaice_concentration_Antarctic_en.png" width="200px"></a></p>
   </div>
   <div class="description">
     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
@@ -95,7 +95,7 @@ iframe {
 <div style="overflow:auto">
   <div class="menu">
         <p height="250px">
-    <a href="#"><img src="https://data.meereisportal.de/maps/relaunch/startpage/seaice_concentration_Antarctic_en.png" width="200px"></a></p>
+    <a href="#"><img src="https://www.awi.de/fileadmin/_processed_/9/7/csm_Messfeld_833e3f519e.jpg" width="200px"></a></p>
   </div>
   <div class="description">
     <p>Long-term observations are crucial to analyse climate change. At the Neumayer Station they have a long tradition dating back to 1981, when the Georg-von-Neumayer Station was build. As an overwinterer at the Neumayer Station III, I took over the responsibility for over a year and contributed to this long-term record with:
@@ -107,7 +107,7 @@ iframe {
        <li>Standard meteorology measurements</li>
      </ul>
     </p>
-    <p><i>Relevant dataset</i></p>
+    <p><i>Relevant datasets</i></p>
 
     <p style="font-size:smaller"> Schmithüsen, H. and <b>Schulz, H.</b>Meteorological synoptical observations from Neumayer Station (Feb. 2017- Jan. 2018). <i>Dataset collection</i>. Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, <b>2018</b>. <a href="https://pangaea.de/?q=Meteorological+synoptical+observations+from+Neumayer+Station&mindate=2017-02-01&maxdate=2018-01-01">URL</a>.</p>
     <p style="font-size:smaller"> Schmithüsen, H. and <b>Schulz, H.</b>Radiosonde measurements from Neumayer Station (Feb. 2017- Jan. 2018).<i>Dataset collection</i>. Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, <b>2018</b>. <a href="https://pangaea.de/?q=Radiosonde+measurements+from+Neumayer+Station&mindate=2017-02&maxdate=2018-01">URL</a>.</p>
