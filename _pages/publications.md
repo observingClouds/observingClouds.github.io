@@ -28,6 +28,11 @@ author_profile: true
             </h1>
           </header>
           <p>
+            Jansson, F.; Janssens, M. ; Grönqvist, J. H. ; Siebesma, P.; Glassmeier, F. ; Attema, J. ; Azizi, V.; Satoh, M.; Sato, Y.; <strong>Schulz, H.</strong>; Kölling, T. (submitted). Cloud Botany: Shallow cumulus clouds in an ensemble of idealized large-domain large-eddy simulations of the trades. 
+            <i>Earth System Science Data
+            </i>
+          </p>
+          <p>
             <strong>Schulz, H.
             </strong>; Stevens, B. (submitted). On the representation of shallow convection in the trades by large-domain, hecto-meter, large-eddy simulations. 
             <i>EarthArXiv
