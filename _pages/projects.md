@@ -55,6 +55,11 @@ iframe {
        <li><a href="https://howto.eurec4a.eu">Interactive How-To book on data access and usage</a></li>
        <li><a href="https://github.com/eurec4a/eurec4a-intake">Data catalog</a></li>
     </ul>
+    <p><i>Relevant publications</i></p>
+    <p style="font-size:smaller"> <strong>Schulz, H. </strong>; Stevens, B. (under review). On the representation of shallow convection in the trades by large-domain, hecto-meter, large-eddy simulations. <i>EarthArXiv </i>, <a href="https://doi.org/10.31223/X5H651" target="_blank">https://doi.org/10.31223/X5H651 </a></p>
+    <p style="font-size:smaller">Vogel, R.; Konow, H.; <strong>Schulz, H. </strong>; Zuidema, P. A Climatology of Trade-Wind Cumulus Cold Pools and Their Link to Mesoscale Cloud Organization. <i>Atmospheric Chemistry and Physics </i> <b>2021 </b>, <i>21 </i> (21), 16609–16630. <a href="https://doi.org/10.5194/acp-21-16609-2021" target="_blank">https://doi.org/10.5194/acp-21-16609-2021 </a>.</p>
+    <p style="font-size:smaller"> <strong>Schulz, H. </strong>; Eastman, R.; Stevens, B. Characterization and Evolution of Organized Shallow Convection in the Trades. <i>Journal of Geophysical Research: Atmospheres </i> <strong>&nbsp; 2021 </strong>, 126 (17). <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD034575" target="_blank">doi:10.1029/2021JD034575 </a></p>
+    <p style="font-size:smaller">Vial, J.; Vogel, R.; <strong>Schulz, H. </strong>. On the Daily Cycle of Mesoscale Cloud Organization in the Winter Trades. <i>Q.J Royal Met. Soc. </i> <strong>2021 </strong> <a href="https://doi.org/10.1002/qj.4103" target="_blank">https://doi.org/10.1002/qj.4103 </a>.</p>
   </div>
 </div>
 
