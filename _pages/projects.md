@@ -49,7 +49,7 @@ iframe {
     <iframe width="100%" src="https://tobi.pages.gwdg.de/gridlook/#https://swift.dkrz.de/v1/dkrz_948e7d4bbfbb445fbff5315fc433e36a/EUREC4A_LES/json_eurec4a_sim_time.json"></iframe>
   </div>
   <div class="description">
-    <p>Why do clouds organize on the mesoscale? Why do they appear in different formations? Which role does precipitation and aerosols play? How will these pattern behave in a warmer climate? These and further questions are part of different efforts to better understand the processes behind cloud morphologies. These efforts are linked to field campagins like EUREC⁴A/ATOMIC and the simulation efforts following them ([EUREC⁴A-MIP](https://eurec4a.eu/motivation))</p>
+    <p>Why do clouds organize on the mesoscale? Why do they appear in different formations? Which role does precipitation and aerosols play? How will these pattern behave in a warmer climate? These and further questions are part of different efforts to better understand the processes behind cloud morphologies. These efforts are linked to field campagins like EUREC⁴A/ATOMIC and the simulation efforts following them (<a href="https://eurec4a.eu/motivation">EUREC⁴A-MIP</a>)</p>
     <p><i>Relevant links</i></p>
     <ul>
        <li><a href="https://howto.eurec4a.eu">Interactive How-To book on data access and usage</a></li>
