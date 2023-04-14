@@ -82,10 +82,10 @@ iframe {
 <div style="overflow:auto">
   <div class="menu">
   	<p height="250px">
-    <a href="#"><img src="https://data.meereisportal.de/maps/relaunch/startpage/seaice_concentration_Antarctic_en.png" width="200px"></a></p>
+    <a href="#"><img src="https://observingClouds.github.io/images/SeaIceAntarctica.JPG"></a>
   </div>
   <div class="description">
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+    <p>Sea-ice plays a critical role in the Earth's climate system. However, data about sea-ice thickness is still sparse, especially in Antarctica. While satellite retrivals are getting better, the spatial variability and composition of the sea-ice are still challenging. With various measurement techniques from simple snow-depths readings to drillings to ground-radars pulled behind a snow-cat, we captured the composition of the sea-ice and its environment. The deployment of snow-buoys and thermistor chains provided additional information about temporal evolution of the sea-ice. This data now helps to improve satellite retrivals and our understanding of land-fast sea ice.</p>
     <p><i>Relevant dataset</i></p>
     <p style="font-size:smaller"> Arndt, S., <b>Schulz, H.</b>, and Nicolaus, M. Thickness and properties of sea ice and snow of land-fast sea ice in Atka Bay in 2017. <i>Data set</i>. Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, <b>2018</b>. <a href="https://doi.org/10.1594/PANGAEA.889250">10.1594/PANGAEA.889250</a>.</p>
   </div>
