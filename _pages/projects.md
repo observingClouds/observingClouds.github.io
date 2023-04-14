@@ -81,7 +81,6 @@ iframe {
 ## Sea-ice study in Antarctica
 <div style="overflow:auto">
   <div class="menu">
-  	<p height="250px">
     <a href="#"><img src="https://observingClouds.github.io/images/SeaIceAntarctica.JPG"></a>
   </div>
   <div class="description">
