@@ -59,7 +59,7 @@ iframe {
     <a href="#"><img src="https://observingClouds.github.io/images/Teaser_AnimationwLabels.gif"></a>
   </div>
   <div class="description">
-    <p>In a <a href="https://www.kaggle.com/c/understanding_cloud_organization">Kaggle Competition</a> we challenge the machine-learning community to developa classification algorithm that matches the human labels best.</p>
+    <p>In a <a href="https://www.kaggle.com/c/understanding_cloud_organization">Kaggle Competition</a> we challenge the machine-learning community to develop a classification algorithm that matches the human labels best.</p>
     <p><i>Relevant publications</i></p>
     <p style="font-size:smaller"><strong>Schulz, H.</strong> (2022). C<sup>3</sup>ONTEXT: A Common Consensus on Convective OrgaNizaTion during the EUREC<sup>4</sup>A eXperimenT. <i>Earth System Science Data</i>, <i>14 </i>(3), 1233–1256. <a href="https://doi.org/10.5194/essd-14-1233-2022" target="_blank">https://doi.org/10.5194/essd-14-1233-2022</a></p>
     <p style="font-size:smaller">Rasp, S.; <strong>Schulz, H.</strong>; Bony, S.; Stevens, B. Combining Crowd-Sourcing and Deep Learning to Explore the Meso-Scale Organization of Shallow Convection. <i>Bull. Amer. Meteor. Soc.</i><strong>2020</strong>. <a href="https://doi.org/10.1175/BAMS-D-19-0324.1" target="_blank">https://doi.org/10.1175/BAMS-D-19-0324.1</a>.</p>
