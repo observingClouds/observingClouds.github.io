@@ -72,7 +72,7 @@ iframe {
     <a href="#"><img src="https://observingClouds.github.io/images/JAS_MoistureSpace_2018.jpg"></a>
   </div>
   <div class="description">
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+    <p>Simulations of radiative equilibrium (RCE) have shown that clouds can self-organize. Randomly distributed clouds can end up in a large cloud-cluster. This redistribution of cloudiness alters the state of the atmosphere as the moist regions get moister and the dry regions get drier. The work here presents observational evidence that circulations driving this mechanism also exist in the real world.</p>
     <p><i>Relevant publications</i></p>
     <p style="font-size:smaller"><b>Schulz, H.</b>; Stevens, B. Observing the Tropical Atmosphere in Moisture Space. <i>J. Atmos. Sci.</i><b>2018</b>, <i>75</i> (10), 3313–3330. <a href="https://doi.org/" target="_blank">doi.org</a><a href="https://doi.org/10.1175/JAS-D-17-0375.1" target="_blank">10.1175/JAS-D-17-0375.1</a>.</p>
   </div>
