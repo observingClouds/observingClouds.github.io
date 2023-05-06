@@ -29,8 +29,10 @@ author_profile: true
           </header>
           <p>
             Jansson, F.; Janssens, M. ; Grönqvist, J. H. ; Siebesma, P.; Glassmeier, F. ; Attema, J. ; Azizi, V.; Satoh, M.; Sato, Y.; <strong>Schulz, H.</strong>; Kölling, T. (submitted). Cloud Botany: Shallow cumulus clouds in an ensemble of idealized large-domain large-eddy simulations of the trades. 
-            <i>Earth System Science Data
-            </i>
+            <i>ESSOAr
+            </i>,
+            <a href="https://doi.org/10.22541/essoar.168319841.11427814/v1" target="_blank">https://doi.org/10.22541/essoar.168319841.11427814/v1
+            </a>
           </p>
           <p>
             <strong>Schulz, H.
