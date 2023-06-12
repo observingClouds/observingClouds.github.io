@@ -114,8 +114,10 @@ classes:
 
 ## Professional Service
 
+- Certified instructor for [Carpentries workshops](https://carpentries.org) focusing on teaching software and data science tools for researchers
 - Editor of [The Journal of Open Source Software (JOSS)](https://joss.theoj.org/)
 - Reviewer for [Journal of Atmospheric Science](https://journals.ametsoc.org/view/journals/atsc/atsc-overview.xml), [Journal of Geophysical Research: Atmospheres](https://agupubs.onlinelibrary.wiley.com/journal/21698996), [Journal of Artificial Intelligence for the Earth Systems](https://journals.ametsoc.org/abstract/journals/aies/aies-overview.xml), [Federal Ministry of Education and Research (BMBF)](https://https://www.bmbf.de) and [National Science Center Poland](http://www.ncn.gov.pl/)
+- Convener of AGU Fall Meeting 2023, Session on "Atmospheric and Oceanic Processes of the Trade Wind Regions and Their Wider Impact"
 - Convener of AGU Fall Meeting 2021, Session on "Atmospheric and Oceanic Processes Governing the Trade Wind Regions"
 
 Please [contact](https://observingclouds.github.io/contact/) me for my full CV.
