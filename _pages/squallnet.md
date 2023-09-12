@@ -39,19 +39,19 @@ Please fill out the [form](https://forms.gle/WCp69NauFWLxtVZW8) to indicate your
 
 ## Partner
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-ycr8{background-color:#ffffff;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-0lax"><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214435/Signature_Stacked_Purple_Hex-300x148.png" alt="Image" width="178" height="88"></td>
-    <td class="tg-0lax"><img src="https://assets.rrz.uni-hamburg.de/assets/uhh-logo-16dab7756eecc70a7649a242498868c6bb37872e5eae6023b38026faeef923c3.svg" width="270" height="88"></td>
-    <td class="tg-0lax"><img src="https://mpimet.mpg.de/typo3conf/ext/mpimetsitepackage/Resources/Public/Theme/Images/Logo_MPI-MET.svg" alt="Image" width="336" height="88"></td>
+    <td class="tg-ycr8"><img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/98/2014/09/07214435/Signature_Stacked_Purple_Hex-300x148.png" alt="Image" width="178" height="88"></td>
+    <td class="tg-ycr8"><img src="https://assets.rrz.uni-hamburg.de/assets/uhh-logo-16dab7756eecc70a7649a242498868c6bb37872e5eae6023b38026faeef923c3.svg" alt="Image" width="270" height="88"></td>
+    <td class="tg-ycr8"><img src="https://mpimet.mpg.de/typo3conf/ext/mpimetsitepackage/Resources/Public/Theme/Images/Logo_MPI-MET.svg" alt="Image" width="336" height="88"></td>
   </tr>
 </thead>
 </table>
