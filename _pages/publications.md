@@ -31,6 +31,8 @@ author_profile: true
             Eastman, R.; McCoy, I. L.; <strong>Schulz, H.</strong>; Wood, R. (submitted). A Survey of Radiative and Physical Properties of North Atlantic Mesoscale Cloud Morphologies from Multiple Identification Methodologies.
             <i>ACP
             </i>,
+            <a href="https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2118/">https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2118/
+            </a>
           </p>
           <p>
             Jansson, F.; Janssens, M. ; Grönqvist, J. H. ; Siebesma, P.; Glassmeier, F. ; Attema, J. ; Azizi, V.; Satoh, M.; Sato, Y.; <strong>Schulz, H.</strong>; Kölling, T. (under review). Cloud Botany: Shallow cumulus clouds in an ensemble of idealized large-domain large-eddy simulations of the trades. 
