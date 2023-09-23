@@ -43,7 +43,7 @@ author_profile: true
           </p>
           <p>
             <strong>Schulz, H.
-            </strong>; Stevens, B. (under review). Evaluating large-domain, hecto-meter, large-eddy simulations of trade-wind clouds using EUREC4A data. 
+            </strong>; Stevens, B. (accepted). Evaluating large-domain, hecto-meter, large-eddy simulations of trade-wind clouds using EUREC4A data. 
             <i>EarthArXiv
             </i>,
             <a href="https://doi.org/10.31223/X5H651" target="_blank">https://doi.org/10.31223/X5H651
