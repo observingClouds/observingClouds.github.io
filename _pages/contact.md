@@ -9,7 +9,7 @@ author_profile: true
 
 Hauke Schulz<br />
 University of Washington<br />
-408 Atmospheric Sciences–Geophysics (ATG) Building Room 316<br />
+408 Atmospheric Sciences–Geophysics (ATG) Building Room 713<br />
 Box 351640<br />
 Seattle, Washington 98195-1640<br />
 
