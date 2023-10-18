@@ -41,12 +41,16 @@ author_profile: true
             <a href="https://doi.org/10.22541/essoar.168319841.11427814/v1" target="_blank">https://doi.org/10.22541/essoar.168319841.11427814/v1
             </a>
           </p>
+          <header>
+            <h1>2023
+            </h1>
+          </header>
           <p>
             <strong>Schulz, H.
-            </strong>; Stevens, B. (accepted). Evaluating large-domain, hecto-meter, large-eddy simulations of trade-wind clouds using EUREC4A data. 
-            <i>EarthArXiv
+            </strong>; Stevens, B. (2023). Evaluating large-domain, hecto-meter, large-eddy simulations of trade-wind clouds using EUREC4A data. 
+            <i>JAMES
             </i>,
-            <a href="https://doi.org/10.31223/X5H651" target="_blank">https://doi.org/10.31223/X5H651
+            <a href="https://doi.org/10.1029/2023MS003648" target="_blank">https://doi.org/10.1029/2023MS003648
             </a>
           </p>
           <header>
