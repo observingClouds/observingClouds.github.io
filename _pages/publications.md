@@ -35,7 +35,7 @@ author_profile: true
             </a>
           </p>
           <p>
-            Jansson, F.; Janssens, M. ; Grönqvist, J. H. ; Siebesma, P.; Glassmeier, F. ; Attema, J. ; Azizi, V.; Satoh, M.; Sato, Y.; <strong>Schulz, H.</strong>; Kölling, T. (under review). Cloud Botany: Shallow cumulus clouds in an ensemble of idealized large-domain large-eddy simulations of the trades. 
+            Jansson, F.; Janssens, M. ; Grönqvist, J. H. ; Siebesma, P.; Glassmeier, F. ; Attema, J. ; Azizi, V.; Satoh, M.; Sato, Y.; <strong>Schulz, H.</strong>; Kölling, T. (accepted). Cloud Botany: Shallow cumulus clouds in an ensemble of idealized large-domain large-eddy simulations of the trades. 
             <i>ESSOAr
             </i>,
             <a href="https://doi.org/10.22541/essoar.168319841.11427814/v1" target="_blank">https://doi.org/10.22541/essoar.168319841.11427814/v1
