@@ -28,7 +28,7 @@ author_profile: true
             </h1>
           </header>
           <p>
-            Eastman, R.; McCoy, I. L.; <strong>Schulz, H.</strong>; Wood, R. (submitted). A Survey of Radiative and Physical Properties of North Atlantic Mesoscale Cloud Morphologies from Multiple Identification Methodologies.
+            Eastman, R.; McCoy, I. L.; <strong>Schulz, H.</strong>; Wood, R. (in press). A Survey of Radiative and Physical Properties of North Atlantic Mesoscale Cloud Morphologies from Multiple Identification Methodologies.
             <i>ACP
             </i>,
             <a href="https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2118/">https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2118/
