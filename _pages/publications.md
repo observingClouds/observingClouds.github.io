@@ -28,9 +28,11 @@ author_profile: true
             </h1>
           </header>
           <p>
-            Janssens, M.; George, G.; <strong>Schulz, H.</strong>; Couvreux, F.; Bouniol, D. (submitted). Shallow convective heating in weak temperature gradient balance explains mesoscale vertical motions in the trades.
+            Janssens, M.; George, G.; <strong>Schulz, H.</strong>; Couvreux, F.; Bouniol, D. (submitted). Shallow convective heating in weak temperature gradient balance explains mesoscale vertical motions in the trades. \
             <i>JGR Atmospheres
             </i>,
+            <a href="http://dx.doi.org/10.22541/essoar.171415887.72921250/v1">10.22541/essoar.171415887.72921250/v1
+            </a>
           </p>
           <p>
             Eastman, R.; McCoy, I. L.; <strong>Schulz, H.</strong>; Wood, R. (in press). A Survey of Radiative and Physical Properties of North Atlantic Mesoscale Cloud Morphologies from Multiple Identification Methodologies.
