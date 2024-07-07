@@ -74,7 +74,11 @@ classes:
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-dvpl">08/2022 - today</td>
+    <td class="tg-dvpl">07/2024 - today</td>
+    <td class="tg-0pky"><span style="font-weight:bold">Researcher,</span> <span style="font-style:italic">Danish Meteorological Institute</span>, Copenhagen, Denmark.</td>
+  </tr>
+  <tr>
+    <td class="tg-dvpl">08/2022 - 06/2024</td>
     <td class="tg-0pky"><span style="font-weight:bold">CICOES (formerly JISAO) Postdoctoral fellow,</span> <span style="font-style:italic">University of Washington/NOAA PMEL</span>, Seattle, USA.</td>
   </tr>
   <tr>
