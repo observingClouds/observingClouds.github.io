@@ -35,7 +35,7 @@ Research is more than ever driven by data. However, on the oceans we still lack 
 ## Participation
 Equipping hundreds of boats with meteorological instruments is a major undertaking. To make sure our instruments can withstand the harsh marine conditions we are planning to deploy only a few instruments for the ARC/ARC+ 2024. For this deployment we are currently searching for volunteering crews to join our team and take one measurement unit across the Atlantic. 
 
-Please fill out the [form](https://forms.gle/QE2SJJY8dKgVFBwm7) to indicate your interest in the 2024 science project.
+Please fill out the [form](https://forms.gle/Jdc9SdMdRmgBxVAK8) to indicate your interest in the 2024 science project.
 
 ## Partner
 <style type="text/css">
