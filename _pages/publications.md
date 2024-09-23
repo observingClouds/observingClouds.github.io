@@ -25,7 +25,6 @@ author_profile: true
         <div class="frame frame-default frame-type-list frame-layout-0 frame-space-after-small" id="c32315">
             <h1>2024
             </h1>
-          </header>
            <p>
             Janssens, M.; George, G.; <strong>Schulz, H.</strong>; Couvreux, F.; Bouniol, D. (2024). Shallow Convective Heating in Weak Temperature Gradient Balance Explains Mesoscale Vertical Motions in the Trades.
             <i>JGR Atmospheres
