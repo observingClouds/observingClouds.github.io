@@ -23,22 +23,21 @@ author_profile: true
     <div class="ce-bodytext">
       <div class="csl-right-inline" style="margin: 0 .4em 0 2.5em; ">
         <div class="frame frame-default frame-type-list frame-layout-0 frame-space-after-small" id="c32315">
-          <header>
-            <h1>submitted
+            <h1>2024
             </h1>
           </header>
-          <p>
-            Janssens, M.; George, G.; <strong>Schulz, H.</strong>; Couvreux, F.; Bouniol, D. (accepted). Shallow convective heating in weak temperature gradient balance explains mesoscale vertical motions in the trades.
+           <p>
+            Janssens, M.; George, G.; <strong>Schulz, H.</strong>; Couvreux, F.; Bouniol, D. (2024). Shallow Convective Heating in Weak Temperature Gradient Balance Explains Mesoscale Vertical Motions in the Trades.
             <i>JGR Atmospheres
             </i>,
-            <a href="http://dx.doi.org/10.22541/essoar.171415887.72921250/v1">10.22541/essoar.171415887.72921250/v1
+            <a href="http://dx.doi.org/10.1029/2024JD041417">10.1029/2024JD041417
             </a>
           </p>
           <p>
-            Eastman, R.; McCoy, I. L.; <strong>Schulz, H.</strong>; Wood, R. (in press). A Survey of Radiative and Physical Properties of North Atlantic Mesoscale Cloud Morphologies from Multiple Identification Methodologies.
+            Eastman, R.; McCoy, I. L.; <strong>Schulz, H.</strong>; Wood, R. (2024). A survey of radiative and physical properties of North Atlantic mesoscale cloud morphologies from multiple identification methodologies.
             <i>ACP
             </i>,
-            <a href="https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2118/">https://egusphere.copernicus.org/preprints/2023/egusphere-2023-2118/
+            <a href="https://doi.org/10.5194/acp-24-6613-2024">10.5194/acp-24-6613-2024
             </a>
           </p>
           <header>
