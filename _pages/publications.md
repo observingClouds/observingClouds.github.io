@@ -23,6 +23,9 @@ author_profile: true
     <div class="ce-bodytext">
       <div class="csl-right-inline" style="margin: 0 .4em 0 2.5em; ">
         <div class="frame frame-default frame-type-list frame-layout-0 frame-space-after-small" id="c32315">
+          <h1>submitted
+          </h1>
+          <p>Eastman, R.; McCoy, I.; Zuidema, P.; <strong>Schulz, H.</strong>; Barret, P. (submitted). Increased occurrence of stratiform clouds in the Caribbean dry season since 1971 from surface observations. <i>JGR Atmospheres</i></p>
             <h1>2024
             </h1>
            <p>
