@@ -20,7 +20,7 @@ author_profile: true
 
 <style>.page__hero--overlay {min-height:calc(100vw * 0.2)}</style>
 
-Hi, I'm an atmospheric scientist interested in understanding the Earth's climate system from as far south as Antartica to the North Pole. I am currently a postdoctoral fellow at the [University of Washington](https://atmos.uw.edu/) and NOAA PMEL on my [CICOES](https://cicoes.uw.edu/) funded project to improve our process-understanding of cloud organization. Prior to moving to Seattle, I did my PhD at the [Max Planck Institute for Meteorology](https://mpimet.mpg.de/en/homepage) in Hamburg and earned my degree from the University of Hamburg.
+Hi, I'm an atmospheric scientist interested in understanding the Earth's climate system from as far south as Antartica to the North Pole. I am currently a researcher  at the [Danish Meteorological Institute (DMI)](https://www.dmi.dk/). Prior to moving to Copenhagen, I have been a postdoctoral fellow at the [University of Washington](https://atmos.uw.edu/) and NOAA PMEL on my [CICOES](https://cicoes.uw.edu/) funded project to improve our process-understanding of cloud organization. I did my PhD at the [Max Planck Institute for Meteorology](https://mpimet.mpg.de/en/homepage) in Hamburg and earned my degree from the University of Hamburg.
 
 My research has taken me as far south as Antarctica to the German research station Neumayer III as an overwinterer, expanding my view on atmospheric processes beyond the norm and giving me the opportunity to collect and interpret climate data from this harsh and precious environment. It also has taken me as far north as Svalbard, where I was an ERASMUS exchange student at the [University Centre in Svalbard](https://www.unis.no/).
 
