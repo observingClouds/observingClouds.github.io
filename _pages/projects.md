@@ -43,6 +43,8 @@ iframe {
 }
 </style>
 
+> **Note:** Searching for a student project, like a master thesis? Please reach out to me! You can find some ideas [here](https://observingclouds.github.io/studentprojects/) as a starting point but I am open to discuss your own ideas as well.
+
 ## Process-understanding of meso-scale cloud organization
 <div style="overflow:auto">
   <div class="menu">
