@@ -25,6 +25,7 @@ author_profile: true
         <div class="frame frame-default frame-type-list frame-layout-0 frame-space-after-small" id="c32315">
           <h1>2025
           </h1>
+          <p>Eastman, R.; Stopa J.; Foster, R.; Vandemark, D.; <strong>Schulz, H.</strong> (submitted). On the association between rain rates in shallow subtropical marine clouds and marine atmospheric boundary layer circulations observed by synthetic aperture radar.</p>
           <p>Eastman, R.; McCoy, I.; Zuidema, P.; <strong>Schulz, H.</strong>; Barret, P. (2025). Increased occurrence of stratiform clouds in the Caribbean dry season since 1971 from surface observations. <i>JGR Atmospheres</i>, <a href="http://dx.doi.org/10.1029/2024JD042563">10.1029/2024JD042563</a></p>
             <h1>2024
             </h1>
