@@ -26,11 +26,11 @@ author_profile: true
           <h1>Submitted, under review or in press
           </h1>
           <p>Schiller-Weiss, I.; Hátún, H.; Olsen, S. M.; Larsen, K. M.; <strong>Schulz, H.</strong> (submitted). "Pathways and Upstream Origins of Warming Dense Waters Supplying the Faroe Bank Channel Overflow"</p>
-          <p><strong>Schulz, H.</strong>; Klöwer, M.; Spring, A. (accepted). "Xbitinfo: Compressing geospatial data based on information theory." <i>Journal of Open Source Software</i>, <a href="https://doi.org/10.21105/joss.09178">10.21105/joss.09178</a></p>
           <p>Yang, X.; Peralta C.; Amstrup, B.;  Hintz, K.;  Borg, S.; Denby, L.; Christiansen, S.; <strong>Schulz, H.</strong>; Pelt, S.; Schreiner, M. (submitted). “DANRA: The Kilometer-Scale Danish Regional Atmospheric Reanalysis.” <a href="https://doi.org/10.48550/arXiv.2510.04681">10.5194/essd-2025-610</a></p>
           <p>Eastman, R.; Stopa J.; Foster, R.; Vandemark, D.; <strong>Schulz, H.</strong> (submitted). On the association between rain rates in shallow subtropical marine clouds and marine atmospheric boundary layer circulations observed by synthetic aperture radar.</p>
           <h1>2025
           </h1>
+          <p><strong>Schulz, H.</strong>; Klöwer, M.; Spring, A. (2025). "Xbitinfo: Compressing geospatial data based on information theory." <i>Journal of Open Source Software</i>, <a href="https://doi.org/10.21105/joss.09178">10.21105/joss.09178</a></p>
           <p>Müller, F.; Seelig, T.;  <strong>Schulz, H.</strong>; Villanueva, D.; Tesche, M. (2025). Tracking Individual Clouds to Assess the Fidelity of High-Resolution Modeling. <i>Geophysical Research Letters</i>, <a href="https://doi.org/10.1029/2025GL115648">10.1029/2025GL115648</a></p>
           <p>Eastman, R.; McCoy, I.; Zuidema, P.; <strong>Schulz, H.</strong>; Barret, P. (2025). Increased occurrence of stratiform clouds in the Caribbean dry season since 1971 from surface observations. <i>JGR Atmospheres</i>, <a href="http://dx.doi.org/10.1029/2024JD042563">10.1029/2024JD042563</a></p>
             <h1>2024
