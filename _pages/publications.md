@@ -25,7 +25,7 @@ author_profile: true
         <div class="frame frame-default frame-type-list frame-layout-0 frame-space-after-small" id="c32315">
           <h1>Submitted, under review or in press
           </h1>
-          <p>Eastman, R.; Stopa J.; Foster, R.; Vandemark, D.; <strong>Schulz, H.</strong> (submitted). On the association between rain rates in shallow subtropical marine clouds and marine atmospheric boundary layer circulations observed by synthetic aperture radar.</p>
+          <p>Eastman, R.; Stopa J.; Foster, R.; Vandemark, D.; <strong>Schulz, H.</strong> (accepted). On the association between rain rates in shallow subtropical marine clouds and marine atmospheric boundary layer circulations observed by synthetic aperture radar.</p>
           <h1>2026</h1>
           <p>Schiller-Weiss, I.; Hátún, H.; Olsen, S. M.; Larsen, K. M.; <strong>Schulz, H.</strong> (2026). "Pathways and Upstream Origins of Warming Dense Waters Supplying the Faroe Bank Channel Overflow." <i>Journal of Geophysical Research: Oceans</i>, <a href="https://doi.org/10.1029/2026JC024510">10.1029/2026JC024510</a></p>
           <p>Yang, X.; Peralta C.; Amstrup, B.;  Hintz, K.;  Borg, S.; Denby, L.; Christiansen, S.; <strong>Schulz, H.</strong>; Pelt, S.; Schreiner, M. (2026). “DANRA: The Kilometer-Scale Danish Regional Atmospheric Reanalysis.” <i>Earth System Science Data</i>, <a href="https://doi.org/10.5194/essd-18-2251-2026">10.5194/essd-18-2251-2026</a></p>
